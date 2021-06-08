@@ -1,0 +1,13 @@
+{
+  "id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in NPG-Digital/NPG-IIIF project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json",
+    "label" : "The Kings and Queens of England: From the Conquest to Queen Victoria"
+  } ]
+}
