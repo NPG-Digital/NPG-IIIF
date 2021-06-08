@@ -1,0 +1,85 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json",
+  "@type" : "sc:Manifest",
+  "label" : "The Kings and Queens of England: From the Conquest to Queen Victoria",
+  "metadata" : [ {
+    "label" : "Artist",
+    "value" : [ "Henry Hering" ]
+  }, {
+    "label" : "Medium",
+    "value" : "Albumen carte-de-visite photomontage"
+  }, {
+    "label" : "Date",
+    "value" : "1862"
+  }, {
+    "label" : "Image size",
+    "value" : "2 7/8 in. x 2 1/8 in. (72 mm x 55 mm)"
+  }, {
+    "label" : "Given by",
+    "value" : "Algernon Graves, 1916"
+  }, {
+    "label" : "Classification",
+    "value" : "Photographs Collection"
+  }, {
+    "label" : "Object Number",
+    "value" : "NPG Ax131392"
+  }, {
+    "label" : "Credit Line",
+    "value" : "National Portrait Gallery, London"
+  } ],
+  "description" : [ {
+    "@value" : "",
+    "@language" : "en"
+  } ],
+  "attribution" : "© National Portrait Gallery, London",
+  "sequences" : [ {
+    "@id" : "http://c39b4b83-a3e2-44bc-965e-e759612600c5",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://fc07574c-a7b9-4cc0-8ed8-c6316750e942",
+      "@type" : "sc:Canvas",
+      "label" : "Kings and Queens of England from the National Portrait Gallery",
+      "height" : 5451,
+      "width" : 3549,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://6c17639c-ba66-4c30-a76b-ccdcb694ca06",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://storiiies-images.cogapp.com/iiif/2/1620898019993NPGAx131392.ptif/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://storiiies-images.cogapp.com/iiif/2/1620898019993NPGAx131392.ptif",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 19345599,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 5451,
+          "width" : 3549
+        },
+        "on" : "http://fc07574c-a7b9-4cc0-8ed8-c6316750e942"
+      } ]
+    } ]
+  } ],
+  "structures" : [ ],
+  "logo" : "https://www.npg.org.uk/assets/images/layout/logo_trans_black.png",
+  "seeAlso" : {
+    "@id" : "https://www.npg.org.uk/collections/search/portrait/mw136443",
+    "format" : "",
+    "label" : "NPG website view"
+  },
+  "thumbnail" : {
+    "@id" : "https://storiiies-images.cogapp.com/iiif/2/1620898019993NPGAx131392.ptif/full/!170,170/0/default.jpg"
+  }
+}
