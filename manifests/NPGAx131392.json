@@ -1,6 +1,6 @@
 {
 	"@context": "http://iiif.io/api/presentation/2/context.json",
-	"@id": "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd",
+	"@id": "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json",
 	"@type": "sc:Manifest",
 	"label": "The Kings and Queens of England: From the Conquest to Queen Victoria",
 	"metadata": [{"label": "Artist", "value": ["Henry Hering"]}, {"label": "Medium", "value": "Albumen carte-de-visite photomontage"}, {"label": "Date", "value": "1862"}, {"label": "Image size", "value": "2 7/8 in. x 2 1/8 in. (72 mm x 55 mm)"}, {"label": "Given by", "value": "Algernon Graves, 1916"}, {"label": "Classification", "value": "Photographs Collection"}, {"label": "Object Number", "value": "NPG Ax131392"}, {"label": "Credit Line", "value": "National Portrait Gallery, London"}],
