@@ -84,7 +84,7 @@
 								"height": 5451,
 								"width": 3549
 							},
-							"on": "http://fc07574c-a7b9-4cc0-8ed8-c6316750e942"
+							"on": "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
 						}],
 							"otherContent": [{
                                                        "@type": "sc:AnnotationList",
