@@ -232,7 +232,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -728,7 +728,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -976,7 +976,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -1224,7 +1224,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -1472,7 +1472,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -1720,7 +1720,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -1968,7 +1968,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -2216,7 +2216,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -2464,7 +2464,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -2712,7 +2712,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -2960,7 +2960,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -3208,7 +3208,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -3456,7 +3456,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -3704,7 +3704,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -3952,7 +3952,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -4200,7 +4200,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -4448,7 +4448,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -4696,7 +4696,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -4944,7 +4944,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -5192,7 +5192,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -5440,7 +5440,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -5688,7 +5688,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -5936,7 +5936,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -6184,7 +6184,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -6432,7 +6432,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -6680,7 +6680,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -6928,7 +6928,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -7176,7 +7176,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -7424,7 +7424,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -7672,7 +7672,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -7920,7 +7920,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -8168,7 +8168,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -8416,7 +8416,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -8664,7 +8664,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -8912,7 +8912,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -9160,7 +9160,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -9408,7 +9408,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -9656,7 +9656,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -9904,7 +9904,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -10152,7 +10152,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -10400,7 +10400,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -10648,7 +10648,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -10896,7 +10896,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -11144,7 +11144,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -11392,7 +11392,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -11640,7 +11640,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -11888,7 +11888,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -12136,7 +12136,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -12384,7 +12384,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -12632,7 +12632,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -12880,7 +12880,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -13128,7 +13128,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -13376,7 +13376,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -13624,7 +13624,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -13872,7 +13872,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -14120,7 +14120,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -14368,7 +14368,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -14616,7 +14616,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -14864,7 +14864,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://am2539.github.io/Kings_Queens/manifests/manifest.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -15112,7 +15112,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -15360,7 +15360,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "http://60457aa5-f8c7-4f06-aba5-d2b4a294c1fd"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -15608,7 +15608,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -15856,7 +15856,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -16104,7 +16104,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -16352,7 +16352,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -16600,7 +16600,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -16848,7 +16848,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -17096,7 +17096,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -17344,7 +17344,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -17592,7 +17592,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -17840,7 +17840,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -18088,7 +18088,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -18336,7 +18336,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -18584,7 +18584,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
@@ -18832,7 +18832,7 @@
     "on" : [ {
       "within" : {
         "@type" : "sc:Manifest",
-        "@id" : "https://raw.githubusercontent.com/NPG-Digital/NPG-IIIF/main/manifests/NPGAx131392.json"
+        "@id" : "https://NPG-Digital.github.io/NPG-IIIF/manifests/NPGAx131392.json"
       },
       "@type" : "oa:SpecificResource",
       "selector" : {
